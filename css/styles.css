@@ -1,0 +1,11 @@
+img {
+  max-width: 300px;
+}
+
+ul.peanut {
+  list-style-type: "🐶";
+}
+
+ul.kitties {
+  list-style-type: "🐱";
+}

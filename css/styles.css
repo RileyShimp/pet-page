@@ -10,13 +10,11 @@ ul.kitties {
   list-style-type: "🐱";
 }
 
-div {
-  display: inline-block;
-  width: 40%;
-}
 
-.right {
-  align:right;
+.column {
+  float: left;
+  width: 300px;
+  padding: 0 25px 0 25px;
 }
 
 .red {

@@ -12,5 +12,9 @@ ul.kitties {
 
 div {
   display: inline-block;
-  width: 30%;
+  width: 40%;
+}
+
+.right {
+  align:right;
 }

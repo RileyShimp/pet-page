@@ -9,3 +9,8 @@ ul.peanut {
 ul.kitties {
   list-style-type: "🐱";
 }
+
+div {
+  display: inline-block;
+  width: 30%;
+}

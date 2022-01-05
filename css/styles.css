@@ -25,3 +25,19 @@ img.intext {
   max-width: 50px;
   float:center;
 }
+
+.sidebar {
+  width: auto;
+  float: right;
+  background-color: rgb(103, 103, 194);
+  list-style-type: none;
+  color: white;
+  text-align: center;
+  padding:0;
+}
+
+.sidebar li  {
+  padding: 15px;
+  text-transform: uppercase;
+  border: 1px solid white;
+}

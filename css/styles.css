@@ -20,3 +20,8 @@ ul.kitties {
 .red {
   color:red;
 }
+
+img.intext {
+  max-width: 50px;
+  float:center;
+}
